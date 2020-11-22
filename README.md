@@ -1,2 +1,2 @@
-# fake-currency-detection
+# Voice-Controlled-Chess
 Recruitment Project
