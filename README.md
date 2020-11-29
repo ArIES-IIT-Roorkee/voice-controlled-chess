@@ -6,12 +6,12 @@ Voice-Controlled Chess is a chess engine which works on the basis of voice comma
 
 Modules and libraries used:
 
--Pip install pygame
--Pip install speech\_recognition
--Pip install pyaudio
--Pip install playsound
+- Pip install pygame
+- Pip install speech\_recognition
+- Pip install pyaudio
+- Pip install playsound
 
--To install PyAudio, follow these commands:
+- To install PyAudio, follow these commands:
 pip install pipwin
 pipwin install pyaudio
 
