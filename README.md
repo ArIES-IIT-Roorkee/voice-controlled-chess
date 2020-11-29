@@ -1,24 +1,18 @@
 # Voice-Controlled-Chess
 Recruitment Project
-# Voice-Controlled Chess:
 
 Voice-Controlled Chess is a chess engine which works on the basis of voice commands given by the user. It is a single player game in which the other player is the computer which makes its move with minimax and Alpha-Beta pruning algorithms.
 
 
 Modules and libraries used:
 
-Pip install pygame
+-Pip install pygame
+-Pip install speech\_recognition
+-Pip install pyaudio
+-Pip install playsound
 
-Pip install speech\_recognition
-
-Pip install pyaudio
-
-Pip install playsound
-
-To install PyAudio, follow these commands:
-
+-To install PyAudio, follow these commands:
 pip install pipwin
-
 pipwin install pyaudio
 
 Files used:
