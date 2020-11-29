@@ -1,10 +1,9 @@
 # Voice-Controlled-Chess
 Recruitment Project
 
-# Voice-Controlled Chess:
  <p align = "justify">Voice-Controlled Chess is a chess engine which works on the basis of voice commands given by the user. It is a single player game in which the other player is the computer which makes its move with minimax and Alpha-Beta pruning algorithms. </p>
 
- ![Image](https://github.com/ArIES-IIT-Roorkee/voice-controlled-chess/blob/main/data/CHESS.jpg)
+ <img src="https://github.com/ArIES-IIT-Roorkee/voice-controlled-chess/blob/main/data/CHESS.jpg" width="50%" height="auto">
 
 ## Modules and libraries used:
 
